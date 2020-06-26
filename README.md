@@ -12,11 +12,11 @@ CodeStruktur:
 
 Beachte:
 - Um den Code in Jupyter auszuführen: 
-    (1) Repositroy clonen (.zip)
-    (2) .zip entpacken
-    (3) Über das Terminal in den entpackten Ordner navigieren
-    (4) Im Terminal das Jupyter Notebook starten
-    (5) "Data_Science1_TUCK.ipynb" aufrufen
+    1) Repositroy clonen (.zip)
+    2) .zip entpacken
+    3) Über das Terminal in den entpackten Ordner navigieren
+    4) Im Terminal das Jupyter Notebook starten
+    5) "Data_Science1_TUCK.ipynb" aufrufen
 - Ein uncleaned und cleaned Dataset sind bereits vorbereitet und im Abschnitt "Loading the cleaned Dataset" ein- bzw. auskommentiert.
 
 
