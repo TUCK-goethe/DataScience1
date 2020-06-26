@@ -11,6 +11,6 @@ CodeStruktur:
 6) LIME - AIX360
 
 Beachte:
-- Ein uncleaned und cleaned Dataset sind bereits vorbereitet und im Abschnitt "Loading the cleaned Dataset" ein- bzw. auskommentiert werden.
+- Ein uncleaned und cleaned Dataset sind bereits vorbereitet und im Abschnitt "Loading the cleaned Dataset" ein- bzw. auskommentiert.
 
 
